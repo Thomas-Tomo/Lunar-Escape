@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
 body {
-    color: red;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
 }
