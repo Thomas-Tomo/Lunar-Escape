@@ -216,6 +216,11 @@ footer i:hover {
     .container-one {
         margin-top: 2rem;
     }
+
+    .column {
+        flex: 33%;
+        max-width: 33%;
+    }
 }
 
 /* For screens max-width 700px and down */
