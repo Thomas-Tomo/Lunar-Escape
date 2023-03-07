@@ -329,4 +329,9 @@ footer i:hover {
     footer i {
         font-size: 1.2rem;
     }
+
+    .column {
+        flex: 100%;
+        max-width: 100%;
+    }
 }
