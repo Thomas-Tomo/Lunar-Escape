@@ -91,3 +91,15 @@ nav li:hover {
     border-bottom: 2px solid rgb(255, 255, 255);
     background: url('../images/stars.webp') no-repeat center center;
 }
+
+/* Main content, container one, dreams */
+
+.container-one {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    text-align: center;
+    align-items: center;
+    padding-left: 15%;
+}
