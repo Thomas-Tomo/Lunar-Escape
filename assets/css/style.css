@@ -196,6 +196,13 @@ footer i:hover {
     padding: 0px 20px;
 }
 
+.column img {
+    margin-top: 8px;
+    margin-bottom: 15px;
+    vertical-align: middle;
+    width: 100%;
+}
+
 /* Media queries */
 
 /* For screens max-width 900px and down */
