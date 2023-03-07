@@ -77,4 +77,5 @@ nav li:hover {
     justify-content: center;
     padding: 200px 100px 100px;
     align-items: center;
+    border-bottom: 2px solid rgb(255, 255, 255);
 }
