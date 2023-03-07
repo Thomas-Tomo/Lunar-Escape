@@ -52,3 +52,9 @@ header nav {
     display: flex;
     flex-wrap: wrap;
 }
+
+nav li {
+    display: inline-flex;
+    margin-right: 3rem;
+    letter-spacing: 2px;
+}
