@@ -35,6 +35,17 @@ h2 {
     font-size: 3rem;
 }
 
+h3 {
+    font-size: 2rem;
+    text-decoration: underline rgb(190, 90, 2) 5px;
+    margin-bottom: 0.8rem;
+    letter-spacing: 2px;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
 /* Header and navigation */
 
 header {
