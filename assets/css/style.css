@@ -110,3 +110,24 @@ nav li:hover {
     opacity: 0.7;
     margin-top: 2rem;
 }
+
+/* Main content, container two, informed */
+
+.container-two {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-end;
+    text-align: center;
+    align-items: center;
+    padding-right: 14%;
+    margin-top: 4rem;
+    padding-bottom: 3rem;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+.box-informed {
+    padding-left: 2rem;
+    display: flex;
+    flex-direction: column-reverse;
+}
