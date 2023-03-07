@@ -34,3 +34,12 @@ h1  {
 h2 {
     font-size: 3rem;
 }
+
+/* Header and navigation */
+
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
