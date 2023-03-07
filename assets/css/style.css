@@ -364,6 +364,10 @@ input[type="radio"]:checked+label {
         flex: 50%;
         max-width: 50%;
     }
+
+    .signup-form {
+        left: 10%;
+    }
 }
 
 /* For screens max-width 500px and down */
@@ -424,5 +428,10 @@ input[type="radio"]:checked+label {
     .column {
         flex: 100%;
         max-width: 100%;
+    }
+
+    .signup-form {
+        left: 10%;
+        min-width: 70%;
     }
 }
