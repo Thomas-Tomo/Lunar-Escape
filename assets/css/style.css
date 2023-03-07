@@ -287,6 +287,15 @@ input[type="radio"]:checked+label {
 
 /* Media queries */
 
+/* For screens max-width 1220px and down */
+
+@media screen and (max-width: 1220px) {
+    input[type="radio"]+label {
+        display: block;
+        margin-bottom: 5px;
+    }
+}
+
 /* For screens max-width 900px and down */
 
 @media screen and (max-width: 900px) {
