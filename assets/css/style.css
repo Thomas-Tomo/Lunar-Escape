@@ -78,4 +78,5 @@ nav li:hover {
     padding: 200px 100px 100px;
     align-items: center;
     border-bottom: 2px solid rgb(255, 255, 255);
+    background: url('../images/stars.webp') no-repeat center center;
 }
