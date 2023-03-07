@@ -196,3 +196,50 @@ footer i:hover {
         margin-top: 2rem;
     }
 }
+
+/* For screens max-width 700px and down */
+
+@media screen and (max-width: 700px) {
+
+    header {
+        position: absolute;
+        flex-direction: column;
+    }
+
+    nav li {
+        margin-right: 1rem;
+    }
+
+    .container-one {
+        margin-top: 2rem;
+    }
+
+    .container-one p {
+        margin-right: 1rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    h3 {
+        font-size: 1.3rem;
+    }
+
+    nav li {
+        margin-top: 10px;
+    }
+
+    .box-img {
+        width: 14rem;
+        height: 14rem;
+    }
+
+    footer {
+        gap: 2rem;
+    }
+
+    footer i {
+        font-size: 1.5rem;
+    }
+}
