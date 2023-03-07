@@ -62,3 +62,9 @@ nav li {
     border-radius: 5px;
     background-color:  rgb(190, 90, 2);
 }
+
+nav li:hover {
+    text-decoration: underline rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
