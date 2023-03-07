@@ -264,6 +264,27 @@ footer i:hover {
     color: rgb(0, 0, 0);
 }
 
+/* Input type radio */
+
+input[type="radio"] {
+    position: fixed;
+    opacity: 0;
+}
+
+input[type="radio"]+label {
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    padding: 10px 10px;
+    border: 2px solid rgb(190, 90, 2);
+    border-radius: 5px;
+}
+
+input[type="radio"]:checked+label {
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    background-color: rgb(190, 90, 2);
+}
+
 /* Media queries */
 
 /* For screens max-width 900px and down */
