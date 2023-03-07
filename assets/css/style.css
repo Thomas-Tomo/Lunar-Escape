@@ -246,6 +246,24 @@ footer i:hover {
     border-color: rgb(190, 90, 2);
 }
 
+/* Submit button */
+
+.submit-btn {
+    margin-top: 1.2rem;
+    border-radius: 5px;
+    padding: 1rem 2rem;
+    text-align: center;
+    font-size: 100%;
+    background-color: rgb(190, 90, 2);
+    color: #fafafa;
+    display: block;
+}
+
+.submit-btn:hover {
+    background-color: rgb(209, 209, 209);
+    color: rgb(0, 0, 0);
+}
+
 /* Media queries */
 
 /* For screens max-width 900px and down */
