@@ -15,7 +15,7 @@
 <body>
 
     <!-- Header and Navigation -->
-    
+
     <header>
         <h1><a href="index.html">Lunar Escape</a></h1>
         <nav>
@@ -37,6 +37,29 @@
     <section class="form-section">
         <form action="" class="signupform">
             <h2>Apply here</h2>
+            <label for="fname">First Name</label>
+            <input id="fname" name="first-name" type="text" class="input-field" placeholder="First Name" required>
+
+            <label for="lname">Last Name</label>
+            <input id="lname" name="last-name" type="text" class="input-field" placeholder="Last Name" required>
+
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email-address" class="input-field" placeholder="Email Address"
+                required>
+
+            <label for="phone">Phone Number</label>
+            <input type="number" id="phone" name="phone-number" class="input-field" placeholder="Phone Number" required>
+
+            <fieldset>
+                <legend>Choose a Package:</legend>
+                <input type="radio" id="regular" name="type_of_flight" value="regular_flight" required>
+                <label for="regular" class="radio-box">Regular Flight</label>
+                <input type="radio" id="surface" name="type_of_flight" value="explore_surface" required>
+                <label for="surface" class="radio-box">Explore The Surface</label>
+                <input type="radio" id="full-package" name="type_of_flight" value="full_package" required>
+                <label for="full-package" class="radio-box">Full Package (both)</label>
+            </fieldset>
+            <input class="submit-btn" type="submit" value="Submit Here">
         </form>
     </section>
 
