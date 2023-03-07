@@ -150,3 +150,13 @@ nav li:hover {
     padding: 2rem;
     margin: 2rem;
 }
+
+.container-about a {
+    border: 1px solid rgb(190, 90, 2);
+    padding: 0 5px;
+}
+
+.container-about a:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
