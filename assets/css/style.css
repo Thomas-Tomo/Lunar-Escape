@@ -184,6 +184,14 @@ footer i:hover {
 
 /* Gallery */
 
+.gallery-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(190, 90, 2);
+    padding: 5px 0;
+}
+
 .row {
     display: flex;
     flex-wrap: wrap;
