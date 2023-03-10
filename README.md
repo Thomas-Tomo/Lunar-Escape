@@ -108,3 +108,22 @@ Users can contact Lunar Escape if they wish to join the company itself. They are
 ![Form received](/assets/images/form-received-image.PNG)
 
 ---
+
+## Features Left to Implement
+
+* Additional packages might be available in the form section.
+* Updated gallery with additional images.
+* In the future, there could be an online academy that will teach aerospace engineering, which you could join through this website.
+---
+
+## Design
+
+ * Colour Scheme
+    * The contrast between black, white, and orange throughout the site.
+
+ * Typography
+    * Kanit font is main font used throughout the ite with sans-serif as its fallback font in case Kanit doesn't import for some reasson.
+
+ * Wireframes
+    * Pen and paper in a notebook: simple and effective.
+---
