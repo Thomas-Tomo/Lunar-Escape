@@ -302,3 +302,8 @@ By forking the repository, we make a copy of the original repository on our GitH
  * [Pixabay](https://pixabay.com/) free stock photos, royalty free images.
  * [Pixlr](https://pixlr.com/) Resizing images.
 ---
+
+## Acknowledgements
+
+ * My mentor Mitko Bachvarov provided helpful feedback and a link to the Flexbox guide.
+ * Slack community for encouragement and information.
