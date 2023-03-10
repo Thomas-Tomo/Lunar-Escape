@@ -284,3 +284,21 @@ By forking the repository, we make a copy of the original repository on our GitH
 7. Press Enter and your local clone will be created.
 
 ---
+
+## Credits
+
+### Code
+ * Understanding the concept of flexbox was learned through [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+ * The README template was helpfully provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
+
+### Content
+
+ * All content was written by the developer.
+ * [Color contrast checker](https://coolors.co/contrast-checker/112a46-acc8e5) was used to decide which colors would be used for the website.
+
+### Media 
+
+ * [Pexels](https://www.pexels.com/) free stock photos, royalty free images.
+ * [Pixabay](https://pixabay.com/) free stock photos, royalty free images.
+ * [Pixlr](https://pixlr.com/) Resizing images.
+---
