@@ -148,3 +148,43 @@ Users can contact Lunar Escape if they wish to join the company itself. They are
 * [Am I Responsive](https://ui.dev/amiresponsive)
     * Mockup picture for the README file.
 ---
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator services were used to validate every page of the project to ensure there were no errors.
+
+ * [W3C Markup Validtor](https://validator.w3.org/)
+ * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+### Validation results
+
+<details>
+<summary>index.html
+</summary>
+
+![Home Page validation result](/assets/images/html-validation.PNG)
+</details>
+<details>
+<summary>gallery.html
+</summary>
+
+![Gallery validation result](/assets/images/html-validation.PNG)
+</details>
+<details>
+<summary>sign-up.html
+</summary>
+
+![Sign Up page validation result](/assets/images/html-validation.PNG)
+</details>
+<details>
+<summary>form-received.htmml
+</summary>
+
+![Application Received validation result](/assets/images/html-validation.PNG)
+</details>
+<details>
+<summary>style.css
+</summary>
+
+![CSS validation result](/assets/images/css-validation.PNG)
+</details>
