@@ -36,3 +36,75 @@ Users can contact Lunar Escape if they wish to join the company itself. They are
     * Check if there are any new packages to apply for in the sign-up form.
     * Review the gallery for any new photos.
 - - -
+
+## Features
+
+* This website is targeting people who want to win a trip to the moon.
+* They can do that by navigating to the sign-up page and filling out a form.
+* Responsive on all device sizes.
+
+### Existing Features
+
+* Navigation bar
+    * It is featured and fixed on all three pages and the form-received page.
+    * Includes links to the logo, home page, gallery, and sign-up page.
+    * It is identical in design across the pages.
+    * Allows easy navigation from page to page without having to revert back to the previous page via the "back" button.
+
+![Navigation](/assets/images/nav-bar.PNG)
+
+* Main heading
+    * It is composed of a background image featuring "stars in the night sky".
+    * Main heading, which is unique for each page:
+        * The home page is comprised of 'Are you ready to explore the moon?"
+        * Gallery is made up of 'Welcome to our Gallery'.
+        * The sign up page is comprised of 'Application Form'
+        * appllication-received is comprised of 'Application Received'.
+
+![Main heading](/assets/images/main-heading-image.PNG)
+
+* Section one, Dreams and info
+    * This section contains a short heading followed by images.
+    * It gives us a brief description of what we can accomplish through this website.
+
+![Dreams and Info](/assets/images/section-one.PNG)
+
+* Section two, 'How is it possible?'
+    * Information about commercial rocket.
+    * Link to the Sign Up form page to apply for a lucky draw.
+
+![How is it possible?](/assets/images/section-two.PNG)
+
+* About Lunar Escape
+    * This section will allow users to get information about the Lunar Escape Company.
+    * Opportunity to join the company because they are always looking for talented people.
+    * Address and contact number.
+
+![About Lunar Escape](/assets/images/section-three.PNG)
+
+* Footer
+    * Links to the social media for Lunar Escape will open in a new tab to allow easy navigation for the user.
+    * It is valuable to the user as it gives them an easy contact option via social media.
+    * Hold copyright information about the author. 
+
+![Footer](/assets/images/footer-image.PNG)
+
+* Gallery 
+    * The gallery will provide the user with supporting images to see shuttle launches, flights, and astronauts.
+    * This section is valuable to the user as they will see our previous flights and astronauts on the Moon.
+
+![Gallery](/assets/images/gallery-image.PNG)
+
+* The Sign Up page
+    * This page will allow users to choose a package, sign up for it, and win a trip to the moon in a lucky draw.
+    * The user can choose a regular flight and explore the surface of both of these to be in the lucky draw.
+    * In the future, there might be more packages to choose from. 
+
+![Sign Up Form](/assets/images/form-image.PNG)
+
+* The Sign Up received page
+    * Form received
+
+![Form received](/assets/images/form-received-image.PNG)
+
+---
