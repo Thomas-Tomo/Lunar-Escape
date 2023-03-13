@@ -393,6 +393,19 @@ input[type="radio"]:checked+label {
     }
 }
 
+/* For screens max-width 599px and down */
+
+@media screen and (max-width: 599px) {
+
+    h2 {
+        font-size: 1.3rem;
+    }
+
+    .main-heading {
+        padding: 12rem 3rem 3rem;
+    }
+}
+
 /* For screens max-width 500px and down */
 
 @media screen and (max-width: 500px) {
