@@ -314,6 +314,16 @@ input[type="radio"]:checked+label {
     }
 }
 
+/* For screens max-width 1000px and down */
+
+@media screen and (max-width: 1000px) {
+
+    .column {
+        flex: 33%;
+        max-width: 33%;
+    }
+}
+
 /* For screens max-width 900px and down */
 
 @media screen and (max-width: 900px) {
@@ -324,11 +334,6 @@ input[type="radio"]:checked+label {
 
     .container-one {
         margin-top: 2rem;
-    }
-
-    .column {
-        flex: 33%;
-        max-width: 33%;
     }
 }
 
