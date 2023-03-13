@@ -139,7 +139,7 @@ Users can contact Lunar Escape if they wish to join the company itself. They are
 ## Design
 
  * Colour Scheme
-    * The contrast between black, white, and orange throughout the site.
+    * Primary colors used on the website: ![Color Scheme](/assets/images/colors-used.png)
 
  * Typography
     * Kanit font is main font used throughout the ite with sans-serif as its fallback font in case Kanit doesn't import for some reasson.
