@@ -7,7 +7,7 @@ The form is already set up to include both options; it is up to the user to deci
 In the about section, there are job opportunities as well, as Lunar Escape Company is always looking for talented people to hire.
 There are links for social media contact and even an address and a phone number.
 
-![Am I Responsive](/assets/images/am-i-responsive.png)
+![Am I Responsive](/assets/images/am-i-responsive.PNG)
 
 [View Lunar Escape live project here](https://thomas-tomo.github.io/Lunar-Escape/)
 - - -
@@ -209,7 +209,7 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 ![CSS validation result](/assets/images/css-validation.PNG)
 </details>
 
-### Further Testing
+### Manual Testing
 
 * The website was tested on Google Chrome, Microsoft Edge, and Opera browsers.
 * The website was viewed on a desktop computer, laptop, and Samsung Galaxy A52 mobile phone.
@@ -273,7 +273,7 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 ---
 
-## Deployment
+## Deployment and local development
 
 ### GitHub Pages
 
